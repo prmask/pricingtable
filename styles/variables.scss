@@ -1,12 +1,22 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700;800&display=swap');
 
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800&display=swap');
+
+@import url('https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/line-awesome/css/line-awesome.min.css');
+
+$Raleway: 'Raleway', sans-serif;
 $Poppins: 'Poppins', sans-serif;
 
 // colors
 $dark: rgb(29, 29, 29);
 $light: #fff;
-$primary: #1795d8;
+$primary: #8373e6;
+// $primary: #1795d8;
 $bg: rgb(250, 246, 10);
+$lowPrime: #dad5f8;
+$lowPrime2: #d1cfff;
+$medPrime: #a89dee;
+$supPrime: #4f458a;
 
 // Body Text colors
 $headTxt: #2b3a47;

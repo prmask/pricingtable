@@ -1,4 +1,5 @@
 .pricingTable {
-	margin: 0 auto;
-	background: goldenrod;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
 }

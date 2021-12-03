@@ -8,6 +8,8 @@
 
 * {
 	margin: 0;
+	text-decoration: none;
+	list-style: none;
 }
 
 html,
@@ -17,10 +19,14 @@ body {
 
 body {
 	font-family: $Poppins;
+	font-size: 20px;
+	font-weight: 900;
 	line-height: calc(1em + 0.5em);
 	-webkit-font-smoothing: antialiased;
 	width: 100%;
 	color: $dark;
+	background: $light;
+	min-height: 100vh;
 }
 
 p,
